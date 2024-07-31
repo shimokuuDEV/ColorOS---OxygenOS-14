@@ -6,6 +6,7 @@ System:
 - Yellow tint fixed
 - Fixed always on display
 - Fixed cam3HAL
+- Fixed Duplicated ringtones
 - Fixed NFC
 - Fixed DolbyAtmos
 - Added Gcam with Leica style ( I'll add it in the future Leica)
