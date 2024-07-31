@@ -18,7 +18,7 @@ System:
 
 Kernel:
 
-- Kernel Upstreamed to 5.4.278
+- Kernel Upstreamed to 5.4.280
 - Fixed Screen flickering on low brightness
 - Updated Adreno blobs to v767
 - Tuned Charging control parameters
